@@ -1,0 +1,55 @@
+.main{
+	width: 900px;
+	height: 600px;
+	
+	box-sizing: border-box;}
+
+ .header{
+    width: 860px;
+	height: 60px;
+	padding:20px;
+	background:yellow;	
+}
+.Nav{
+	width: 160px;
+	height:440px;
+	padding:20px;
+	background:yellow;
+	margin-top: 20px;
+	float: left;
+}
+.center{
+	width: 700px;
+	height:auto;
+   	
+	float: left;
+		
+		
+}
+.Article{
+	width: 440px;
+	margin: 20px 0px 20px 20px;
+	padding: 20px 0px;
+	height: 320px;
+	padding:20px 20px;
+	background:yellow;
+	float: left;
+}
+.footer{
+width: 640px;
+	height: 60px;
+	background: yellow;
+	padding: 20px;
+	margin: 0px 0px 0px 20px;
+	float: left;
+}
+
+
+.Ads{
+	width: 140px;
+	height: 320px;
+	background: yellow;
+	padding: 20px;
+	margin: 20px 0px 20px 20px;
+	float: left;
+}
